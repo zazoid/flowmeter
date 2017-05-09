@@ -1,0 +1,11 @@
+Flowmeter
+
+This is a program for fuel consumption meter. This device is suitable for any liquid fuel engines, but mostly for engines without electronical injection. That device uses flow meter with oval gears($15 on ali), which is not necessary for electronical injection engines, where measuring of fuel portions is much easier. But if you want use that device with EFI engine, you anyway should install that sensor, or completely rewrite counting algorithm.
+
+Also that program implements some basic taximeter functions.
+
+In future I plan implement printing out of some dashboard parameters, such as fuel level meter and coolant temperature. 
+
+For any question and ideas please contact me:
+testor@zazoid.com
++375 29 7062947(Telegram IM, phone)
